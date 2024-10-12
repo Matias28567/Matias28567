@@ -1,5 +1,10 @@
-## Hi there 👋
-
+-Hola Soy Matias Muñoz
+-Soy un chico que cursa secundaria
+Hobbies:
+-Soy bueno en socializar 
+-Hago reir a la gente 
+Que hago:
+Soy un ninja de coder dojo
 <!--
 **Matias28567/Matias28567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
