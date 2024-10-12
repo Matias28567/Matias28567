@@ -1,11 +1,13 @@
-<h1 align="center">Hola 👋, soy Matias Muñoz</h1>
+<h1 align="center">Hola 👋, soy Matías Muñoz</h1>
+<p align="center">Soy un chico que cursa la secundaria.</p>
 <br>
-<p align="center"> Soy un chico que cursa secundaria </p>
 <h3>Hobbies</h3>
-- Soy bueno en socializar
-- Hago reir a la gente
+<ul>
+    <li>Soy bueno socializando.</li>
+    <li>Hago reír a la gente.</li>
+</ul>
 <h3>¿Qué hago?</h3>
-<p> Soy un ninja de coder dojo </p>
+<p>Soy un ninja del Coder Dojo.</p>
 <!--
 **Matias28567/Matias28567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
