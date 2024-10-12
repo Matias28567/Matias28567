@@ -1,10 +1,11 @@
--Hola Soy Matias Muñoz
--Soy un chico que cursa secundaria
-Hobbies:
--Soy bueno en socializar 
--Hago reir a la gente 
-Que hago:
-Soy un ninja de coder dojo
+<h1 align="center">Hola 👋, soy Matias Muñoz</h1>
+<br>
+<p align="center"> Soy un chico que cursa secundaria </p>
+<h3>Hobbies</h3>
+- Soy bueno en socializar
+- Hago reir a la gente
+<h3>¿Qué hago?</h3>
+<p> Soy un ninja de coder dojo </p>
 <!--
 **Matias28567/Matias28567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
